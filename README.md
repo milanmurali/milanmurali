@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Milan Murali and I'm Junior Frontend Develpoer</p>
+<p align="left">I'm Milan Murali and I'm a Junior Frontend Develpoer</p>
 
 ###
 
