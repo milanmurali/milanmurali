@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Currently working as an Intern<br>📚 I'm currently learning MERN FS<br>🎯 Goals: Live Life!?</p>
+<p align="left">✨ Currently working as an Intern<br>📚 I'm currently learning MERN Full Stack<br>🎯 Goals: Live Life!?</p>
 
 ###
 
