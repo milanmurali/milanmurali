@@ -1,41 +1,43 @@
-<h1 align="left">Hello there! ✨</h1>
 
-<p align="left">I'm Milan Murali, a Junior Frontend Developer passionate about crafting user-friendly interfaces and bringing ideas to life on the web.</p>
+<h1 align="center">Hey there, I'm Milan Murali!</h1>
 
-###
+<p align="center">
+  🌱💻  Junior MERN  Full Stack Developer <br>
+  Passionate about turning ideas into delightful web experiences.
+</p>
 
-<h2 align="left">About Me</h2>
+---
 
-###
+## 🚀 About Me
 
-<p align="left">✨ Currently working as an Intern<br>
-📚 I'm currently diving deep into the MERN Full Stack ecosystem<br>
-🎯 Goals: Continuously learn, build impactful projects, and live life to the fullest!</p>
+- 🎯 Always curious, always building
+- 🔧 Currently working as an Intern
+- 🌐 Exploring the depths of the **MERN stack**
+- 🧠 Obsessed with writing clean and efficient code
+- 📬 Let's connect: [LinkedIn](https://www.linkedin.com/in/milanmurali/)
 
-###
+---
 
-<h2 align="left">I Code With</h2>
+## 🛠️ Tech Stack
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" alt="Tailwind CSS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="36" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
 </div>
+
+
+## 💡 Fun Fact
+
+> I believe that **every bug** teaches you something—except the ones that disappear when you try to debug them.  
+> Those just haunt you.
+
+---
+
