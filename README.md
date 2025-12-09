@@ -11,8 +11,7 @@
 ## 🚀 About Me
 
 - 🎯 Always curious, always building
-- 🔧 Currently working as an Intern
-- 🌐 Exploring the depths of the **MERN stack**
+- 🌐 Exploring the depths of the **MERN**
 - 🧠 Obsessed with writing clean and efficient code
 - 📬 Let's connect: [LinkedIn](https://www.linkedin.com/in/milanmurali/)
 
