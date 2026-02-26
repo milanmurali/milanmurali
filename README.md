@@ -32,11 +32,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
 </div>
 
-
+<!--
 ## 💡 Fun Fact
 
 > I believe that **every bug** teaches you something—except the ones that disappear when you try to debug them.  
 > Those just haunt you.
 
 ---
-
+-->
