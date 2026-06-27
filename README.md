@@ -2,22 +2,22 @@
 <h1 align="center">Hey there, I'm Milan Murali!</h1>
 
 <p align="center">
-  🌱💻  Junior MERN  Full Stack Developer <br>
+  Junior MERN Full Stack Developer <br>
   Passionate about turning ideas into delightful web experiences.
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎯 Always curious, always building
-- 🌐 Exploring the depths of the **MERN**
-- 🧠 Obsessed with writing clean and efficient code
-- 📬 Let's connect: [LinkedIn](https://www.linkedin.com/in/milanmurali/)
+- Always curious, always building
+- Exploring the depths of the **MERN**
+- Obsessed with writing clean and efficient code
+- Let's connect: [LinkedIn](https://www.linkedin.com/in/milanmurali/)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -33,7 +33,7 @@
 </div>
 
 <!--
-## 💡 Fun Fact
+## Fun Fact
 
 > I believe that **every bug** teaches you something—except the ones that disappear when you try to debug them.  
 > Those just haunt you.
